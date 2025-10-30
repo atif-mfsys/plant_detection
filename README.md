@@ -1,6 +1,6 @@
 # plant_detection
 
-A new Flutter project.
+This Flutter-based application uses Artificial Intelligence (AI) and TensorFlow Lite (TFLite) to identify plant species and detect plant diseases directly on a mobile device — even offline. The system integrates a pre-trained deep learning model converted to the .tflite format, enabling lightweight, fast, and accurate predictions.
 
 ## Getting Started
 
